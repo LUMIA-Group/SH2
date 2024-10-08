@@ -36,10 +36,13 @@ bash factor_dola.sh
 ## Citation
 If you find this work helpful, please cite our paper:
 ```
-@article{kai2024sh2,
-  title={SH2: Self-Highlighted Hesitation Helps You Decode More Truthfully},
-  author={Kai, Jushi and Zhang, Tianhang and Hu, Hai and Lin, Zhouhan},
-  journal={arXiv preprint arXiv:2401.05930},
-  year={2024}
+@misc{kai2024sh2selfhighlightedhesitationhelps,
+      title={SH2: Self-Highlighted Hesitation Helps You Decode More Truthfully}, 
+      author={Jushi Kai and Tianhang Zhang and Hai Hu and Zhouhan Lin},
+      year={2024},
+      eprint={2401.05930},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL},
+      url={https://arxiv.org/abs/2401.05930}, 
 }
 ```
